@@ -1,0 +1,9 @@
+Exercise 1 : Working with JSX Code
+            This is a quick exercise to get started with React and JSX code: Your task is to edit the
+            JSX code of a provided React component such that it displays a h1 element with the text
+            "Exercise done!" on the page.
+    Important: The custom JSX code must be added inside the existing <div> element.
+
+    Code - 
+
+Exercise 2 :  Working with Your First Component - Functional and Class based component
